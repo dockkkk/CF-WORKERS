@@ -219,7 +219,7 @@ export default {
 			
 			
 				
-				https://github.com/cmliu/WorkerVless2sub
+				https://github.com/dockkkk/CF-WORKERS
 				`;
 			
 				return new Response(responseText, {
