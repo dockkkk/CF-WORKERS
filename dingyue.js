@@ -242,7 +242,7 @@ export default {
 			
 			
 				
-				https://github.com/cmliu/WorkerVless2sub
+				https://t.me/tweekpiao
 				`;
 			
 				return new Response(responseText, {
