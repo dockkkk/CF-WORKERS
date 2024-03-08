@@ -26,7 +26,7 @@ https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR.ini
 
 2，订阅器部署
 
-代码地址：https://github.com/dockkkk/CF-WORKERS/edit/main/dingyue
+代码地址：上方dingyue.js
 
 3中方法设置优选IP: 优选域名，API，CSV
 
@@ -44,8 +44,7 @@ ali.055500.xyz#香港
 
 3，节点转换器部署
 
-代码地址：https://raw.githubusercontent.com/bulianglin/psub/main/worker.js
-
+代码地址：上方zhuanhuan.js
 变量：BACKEND  https://api.v1.mk
 
 创建存储桶：变量名称SUB_BUCKET 
