@@ -2,7 +2,7 @@
 
 1，workers部署
 
-代码地址：https://raw.githubusercontent.com/dockkkk/CF-WORKERS/main/worker.js
+代码地址：上方work.js文件 
 
 PROXYIP，也叫反代CFIP或者代理CFIP
 
