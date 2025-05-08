@@ -11,7 +11,7 @@ let proxyIP = 'proxyip.fxxk.dedyn.io';// 地址并不影响你的网速，cdn.xn
 //let sub = '';// 留空则显示原版内容
 let sub = '';// 内置优选订阅生成器，
 let subconverter = 'api.v1.mk';// clash订阅转换后端，目前使用自己的订阅转换功能。支持自建psub 可自行搭建https://github.com/bulianglin/psub
-let subconfig = "https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Mini_MultiMode.ini"; //订阅配置文件
+let subconfig = "https://github.com/ACL4SSR/ACL4SSR/blob/master/Clash/config/ACL4SSR_Mini_MultiMode.ini"; //订阅配置
 // The user name and password do not contain special characters
 // Setting the address will ignore proxyIP
 // Example:  user:pass@host:port  or  host:port
