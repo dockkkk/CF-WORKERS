@@ -26,7 +26,7 @@ var require_common = __commonJS({
     "use strict";
     init_modules_watch_stub();
     function isNothing(subject) {
-      return typeof subject === "undefined" || subject === null;
+      return typeof subject === "undefined" || subject === null;#备注
     }
     function isObject(subject) {
       return typeof subject === "object" && subject !== null;
