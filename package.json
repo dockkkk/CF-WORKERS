@@ -1,0 +1,20 @@
+{
+  "name": "node-ws",
+  "version": "1.0.0",
+  "description": "Node.js Server",
+  "main": "app.js",
+  "author": "",
+  "repository": "",
+  "license": "MIT",
+  "private": false,
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "ws": "^8.14.2",
+    "axios": "^1.6.2"
+  },
+  "engines": {
+    "node": ">=14"
+  }
+}
